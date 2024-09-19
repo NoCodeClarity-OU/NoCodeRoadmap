@@ -1,6 +1,6 @@
 # NoCodeRoadmap: The Ultimate NoCode Development Guide
 
-Welcome to the **NoCodeClarity Roadmap**, designed to help you master NoCode tools and platforms. Whether you're starting your NoCode journey or aiming to build advanced web and mobile applications, this roadmap is for you. Are you ready? Go!
+Welcome to the **NoCodeRoadmap**, designed to help you master NoCode tools and platforms. Whether you're starting your NoCode journey or aiming to build advanced web and mobile applications, this roadmap is for you. Are you ready? Go!
 
 ![NoCodeClarity Logo](https://github.com/NoCodeClarity-OU/brand/blob/main/NCC%20Icon.png?raw=true)
 
