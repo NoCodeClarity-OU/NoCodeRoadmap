@@ -93,7 +93,7 @@ Once you’ve completed the roadmap, use these tools to deploy your projects:
 ### **Deploy on Vercel or Netlify**
 - Simply push your project code to a GitHub repository and use either Vercel or Netlify’s one-click deployment to go live.
 
-## **Store Your App Idea on GitHub**
+## 🤔 **Store Your App Idea on GitHub**
 
 Map out your vision using a tool like [Whimsical](https://whimsical.com) then organize your thoughts using a tool like [ChatGPT](https://chat.openai.com/) or [Claude](https://claude.ai/). Once this is done, ask your AI of choice for a README.md file so you can put it in a repo on [GitHub](https://github.com), like this! The purpose for this is to ensure that you write the vision, make it plain, and have a record of it! Repos on GitHub can be private, for stealh buildout, or public, for everyone to benefit from! You can use the "MIT License" for your GitHub repo to keep things simple.
 
