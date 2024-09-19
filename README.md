@@ -77,10 +77,8 @@ The roadmap is divided into phases to help you progressively learn and master th
 
 ---
 
-## 🎮 **Gamification & Learning Path**
-- Earn badges as you complete each roadmap section.
-- Get certified once you’ve completed the entire roadmap.
-- Join the **NoCodeClarity Community** to participate in hackathons and NoCode-building events.
+## 🎮 **Growth and Community Path**
+- Join the **[NoCodeClarity Community](https://app.console.xyz/c/nocodeclarity)** to stay connected and learn how to participate in **[NoCodeHacking](https://nocodehacking.com)**, our annual flagship hackathon.
 
 ---
 
