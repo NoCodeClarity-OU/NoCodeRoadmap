@@ -29,7 +29,9 @@ The roadmap is divided into phases to help you progressively learn and master th
    | [Carrd](https://carrd.co) | Quick and simple tool for building one-page websites. 
    | [Figma](https://figma.com) | A collaborative design tool for creating user interfaces and prototypes. 
    | [Tilda](https://tilda.cc) | Drag-and-drop tool with pre-designed blocks for rapid web design. 
-   | [Canva](https://canva.com) | A user-friendly tool for creating visuals, social media posts, and web graphics. 
+   | [Canva](https://canva.com) | A user-friendly tool for creating visuals, social media posts, and web graphics.
+   | [Framer](https://framer.com) | Swiftly design beautiful and responsive sites using an interface.
+   
    
 ### **2. Proficiency Tools**
    Develop more complex workflows and web applications by learning to integrate different tools.
